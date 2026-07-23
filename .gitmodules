@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "electsys21"]
+	path = electsys21
+	url = https://github.com/ivan-ih21/electsys21
